@@ -1,5 +1,9 @@
 [[Xplore Kigali](https://colab.research.google.com/drive/18xsrTk5O9am9WtcNJCR2TFv49ReF4BkG#scrollTo=view-in-github)] <--Link to the **Google collab**
 
+### NB: Make sure to download the file first to access the link to our video.
+
+
+
 # Xplore Kigali
 Shortest path calculation and route plotting in Kigali, in interactive Folium map, based on Dijkstra's pathfinding algorithm.
 
