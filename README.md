@@ -1,8 +1,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18xsrTk5O9am9WtcNJCR2TFv49ReF4BkG?usp=sharing)
 
-# Vehicle Navigation-Shortest Path
+# Xplore Kigali
 
-Shortest path calculation and route plotting, in interactive Folium map, based on NetworkX's Dijkstra's pathfinding algorithm.
+Shortest path calculation and route plotting in Kigali, in interactive Folium map, based on Dijkstra's pathfinding algorithm.
 
 ## Requirements
 
