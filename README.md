@@ -22,19 +22,24 @@ Shortest path calculation and route plotting in Kigali, in interactive Folium ma
     from osgeo import ogr
     import matplotlib.pyplot as plt
     %matplotlib inline
+    
 NB: The main dependencies to run this program are ***contextily and osmnx*** which have to be downloaded first.
 
 ### --> They can be download using the following commands:
       pip install osmnx==0.16.2
       pip install contextily 
+      
 ---> This a simple and fun to use program that uses various utilities and creates something useful in which people(students) can actually benefit from and we are actually solving a real life problem (Problems that we, ourselves have faced). It has a lot of potential and can actually be deployed as a web app.( We tried to deploy it using anvil and almost finished everything up but unfortunately anvil doesnt support folium (which is the responsible package to display the map) and we were not able to do so.)
 
--->There are any questions or concerns please feel free to get in touch with us. Cheers!
+-->The video we have submiited is about **17min** and the reason for that is that we had to explain about **the functionalities and dependencies** of our program. 
+
+--> If there are any questions or concerns, please feel free to get in touch with us. Cheers!
 
 ### Contributers:
-      --> Abraham Diress
-      --> Henos Tadesse
-      --> David Soro)
+      --> Abraham Diress (Cohort 3)
+      --> Henos Tadesse (Cohort 2)
+      --> David Soro (Cohort 2)
+      
 @summative_project_group_12
 
 ### Further Requirements details
